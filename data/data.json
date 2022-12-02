@@ -1,0 +1,18 @@
+{
+    "results":[
+        {
+            "id": 1,
+            "firstName": "Bruce",
+            "surname": "Wayne",
+            "email": "iambatman@gmail.com"
+
+        },
+        {
+            "id": 2,
+            "firstName": "Clark",
+            "surname": "Kent",
+            "email": "iamsuperman@gmail.com"
+
+        }
+    ]
+}
